@@ -1,0 +1,7 @@
+streamlit
+streamlit_webrtc
+cv2
+numpy
+mediapipe
+keras.models
+webbrowser==3.3
