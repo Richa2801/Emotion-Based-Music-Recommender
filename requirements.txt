@@ -3,4 +3,3 @@ streamlit_webrtc
 numpy
 mediapipe
 keras.models
-webbrowser
