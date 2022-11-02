@@ -3,4 +3,4 @@ streamlit_webrtc
 numpy
 mediapipe
 keras.models
-webbrowser==3.3
+webbrowser
