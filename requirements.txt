@@ -1,0 +1,7 @@
+streamlit==1.8.0
+streamlit_webrtc==0.44
+cv2==4.6.0
+numpy==1.21.4
+mediapipe==0.7
+keras.models==3.7.1
+webbrowser==3.3
